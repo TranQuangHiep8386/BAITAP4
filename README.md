@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d1c569b-268b-457d-87f6-1c837cb67984)# BAITAP4
+# BAITAP4
 BAITAPSO4
 bai tap 4: (sql server)
 yêu cầu bài toán:
@@ -35,7 +35,7 @@ TẠO BẢNG THỜI KHÓA BIỂU
 ![image](https://github.com/user-attachments/assets/8845e901-5acb-4cd9-b8d5-3c13e2036381)
 4: TRUY VẤN '2025-05-03 06:30:00'; '2025-05-18 09:10:00';CÓ GIÁO VIÊN NÀO ĐANG GIẢNG DẠY
 ![image](https://github.com/user-attachments/assets/26a18840-834f-458c-9b71-ec04a64a06eb)
--KẾT QUẢ 
+# KẾT QUẢ 
 ![image](https://github.com/user-attachments/assets/633358e0-e210-42a1-982e-2c48d8c8d8c4)
 
 
